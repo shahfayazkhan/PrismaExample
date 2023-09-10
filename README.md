@@ -1,6 +1,8 @@
 # PrismaExample
 CLONE THE PROJECT
 
+MYSQL CONNECTION NEED U MUST USE WAMP SERVER or XAMP SERVER
+
 ``npm install``
 
 ``npm start``
